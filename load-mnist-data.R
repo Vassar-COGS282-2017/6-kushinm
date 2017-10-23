@@ -34,3 +34,4 @@ show.digit(10, which.matrix="train")
 # the labels are given by a ten element vector, with the corresponding digit set to 1.
 testLabels[10,] # correct answer is "3"
 trainLabels[10,] # correct answer is "8"
+
