@@ -29,6 +29,8 @@ testData[10,]
 
 # the show.digit function will visualize the vector in a more interpretable way:
 show.digit(10, which.matrix="test")
+
+
 show.digit(10, which.matrix="train")
 
 # the labels are given by a ten element vector, with the corresponding digit set to 1.
